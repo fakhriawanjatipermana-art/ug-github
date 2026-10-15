@@ -1,1 +1,2 @@
-Hello Kasir
+Aplikasi Kasir
+
